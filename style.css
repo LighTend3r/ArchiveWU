@@ -43,6 +43,7 @@ ul[class="tag"] > li
     padding: 6px;
     background-color: rgb(159, 226, 226);
     opacity: 0.5;
+    margin-bottom: 20px;
 }
 h2
 {
